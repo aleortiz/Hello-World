@@ -2,11 +2,11 @@
 ## Heading
 #Another Heading
 
-** This Text should be bold**
-* This Text should be in italic*
+**This Text should be bold**
+*This Text should be in italic*
 
-*item
-*item
+* item
+* item
 
--other item
--other item
+- other item
+- other item
